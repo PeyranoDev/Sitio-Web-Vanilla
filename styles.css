@@ -84,7 +84,6 @@ main {
 
 .hero-section {
     background: none; 
-    padding: 50px 20px;
     color: var(--text-main-color);
     z-index: 2;
 }
@@ -134,7 +133,7 @@ main {
     max-width: 400px; 
     color: #000000;
     background-color: var(--text-main-color);
-    margin-bottom: 40px;
+    margin-bottom: 20px;
 }
 
 
