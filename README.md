@@ -2,7 +2,7 @@
 
 
 TODO LIST:
-- [ ] Terminar contact.html.
-- [ ] Estilizar contact.html con clases especificas.
-- [ ] Crear las carpetas "GAMES", "STYLES" Y "SCRIPTS".
-- [ ] Utilizar el contact.html como un formulario para contactarse.
+- [X] Terminar contact.html.
+- [X] Estilizar contact.html con clases especificas.
+- [X] Crear las carpetas "GAMES", "STYLES" Y "SCRIPTS".
+- [X] Utilizar el contact.html como un formulario para contactarse.

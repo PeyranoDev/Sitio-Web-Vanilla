@@ -17,7 +17,7 @@ document.addEventListener("DOMContentLoaded", function() {
     function validateForm(name, email, message) {
         let isValid = true;
 
-        // Validación del nombre
+
         if (name === "") {
             alert("Por favor, ingresa tu nombre.");
             isValid = false;
